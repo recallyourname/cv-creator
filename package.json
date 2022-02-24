@@ -1,0 +1,20 @@
+{
+  "name": "cv-creator",
+  "version": "0.0.1",
+  "description": "cv creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js",
+    "start": "start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recallyourname/cv-creator.git"
+  },
+  "author": "recallyourname",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recallyourname/cv-creator/issues"
+  },
+  "homepage": "https://github.com/recallyourname/cv-creator#readme"
+}
